@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dgcnn(fps+group)+OT+KD.md",
+                "file": "深度学习/dgcnn(fps+group)+OT+KD.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,10 +198,10 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "8bb33b0ca4978325",
+  "active": "c3e2b5f51bc276a0",
   "lastOpenFiles": [
     "ssh类/免密登陆服务器.md",
-    "dgcnn(fps+group)+OT+KD.md",
+    "深度学习/dgcnn(fps+group)+OT+KD.md",
     "深度学习",
     "readme.md",
     "ssh类",
